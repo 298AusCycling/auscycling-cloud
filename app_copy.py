@@ -6,7 +6,7 @@ import time
 import sqlite3
 import json
 from datetime import datetime
-from final_forward import combined, accel_phase, race_energy
+from final_forward_copy import combined, accel_phase, race_energy
 import matplotlib
 matplotlib.use("Agg")
 import requests
